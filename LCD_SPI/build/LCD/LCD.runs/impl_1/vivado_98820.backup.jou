@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Nov 30 20:14:05 2023
+# Process ID: 98820
+# Current directory: /home/sako/LCD_SPI/build/LCD/LCD.runs/impl_1
+# Command line: vivado -log SPI_Master.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source SPI_Master.tcl -notrace
+# Log file: /home/sako/LCD_SPI/build/LCD/LCD.runs/impl_1/SPI_Master.vdi
+# Journal file: /home/sako/LCD_SPI/build/LCD/LCD.runs/impl_1/vivado.jou
+# Running On: sako-c-ubuntu, OS: Linux, CPU Frequency: 1500.000 MHz, CPU Physical cores: 4, Host memory: 16335 MB
+#-----------------------------------------------------------
+source SPI_Master.tcl -notrace
